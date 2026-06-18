@@ -1,4 +1,6 @@
-<h1 align="center">DD</h1>
+# DD
+
+Research code, simulations, and engineering notes.
 
 <p align="center">
   <picture>
